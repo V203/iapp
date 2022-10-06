@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/V203/iapp.git/static/css/main.073c9b0a.css",
+    "main.js": "/V203/iapp.git/static/js/main.08d51377.js",
+    "static/js/787.9d706688.chunk.js": "/V203/iapp.git/static/js/787.9d706688.chunk.js",
+    "static/media/logo.svg": "/V203/iapp.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/V203/iapp.git/index.html",
+    "main.073c9b0a.css.map": "/V203/iapp.git/static/css/main.073c9b0a.css.map",
+    "main.08d51377.js.map": "/V203/iapp.git/static/js/main.08d51377.js.map",
+    "787.9d706688.chunk.js.map": "/V203/iapp.git/static/js/787.9d706688.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.08d51377.js"
+  ]
+}
